@@ -14,7 +14,9 @@
 }
 .portfolio li:first-child{
     width: 100%;
-    flex-basis: 100%;    
+    flex-basis: 100%;
+    box-shadow: 10px 10px black, -10px -10px #FA9;
+
 }
 .portfolio img {
     width: 100%;
